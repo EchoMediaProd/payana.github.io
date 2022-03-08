@@ -1,0 +1,345 @@
+@media only screen and (min-width:768px) and (max-width:1199px) {
+img{max-width:100%; height:auto;}
+.topsection02-top ul li{ font-size:12px; line-height:13px;  padding:0px 8px;}
+.topsection02-top::after{ height:50px; }
+.topsection01{ padding-top:15px; }
+#cssmenu > ul > li > a{ font-size:14px; line-height:85px; padding: 0px 12px;}
+.banner-section .full-img-text h1{ font-size:24px; line-height:30px; }
+.banner-section .full-img-text a.learnmre-btn{ font-size:14px; line-height:40px; }
+.hometogether-section{ padding:26px 0px; }
+.hometogether-section h2{ font-size:30px; line-height:34px; margin-bottom:16px; }
+.hometogether-section p{ font-size:14px; line-height:23px; font-weight:400; }
+
+.homesection01-bg{ padding-top:25px; padding-bottom:25px; }
+.homesection01-bg h2{ font-size:30px; line-height:34px; margin-bottom:40px; }
+.homesection01box .textsec{padding:52px 16px 20px 16px;}
+.homesection01box .textsec h3{ font-size:18px; line-height:23px; }
+.homesection01box .textsec p{ font-size:13px; line-height:22px; min-height:200px;}
+.homesection01box .textsec a.learnmore-btn{ font-size:14px; line-height:34px; }
+
+.aboutsection02{ padding:30px 0px; }
+.aboutsection02 h2{ font-size:30px; line-height:35px; }
+.aboutsection02 p{ font-size:15px; line-height:23px; text-align:justify; }
+.aboutsection03 h2{ font-size:30px; line-height:35px; }
+.aboutsection03 p{ font-size:14px; line-height:23px; }
+.footer02-box .imgsec{ width:40px; }
+.footer02-box{ padding:0px 0px 0px 47px; }
+.footer02-box p{ font-size:11px; line-height:20px; }
+.footer03-left p{ font-size:13px; }
+
+/*===========about start===============*/
+.banner-section img.fullimg{ min-height:100px; }
+.banner-section .full-img-text p{ font-size:12px; line-height:15px; margin-bottom:7px; }
+.aboutsection01{ padding:25px 0px; }
+.aboutsection01 h2{ font-size:26px; line-height:35px; margin-bottom:16px; }
+.aboutsection01 h6{ font-size:14px; line-height:22px; padding:0px 12px; }
+.aboutsection01-right h3{ font-size:23px; line-height:30px; }
+.aboutsection01-right ul li{ font-size:14px; line-height:23px; }
+.aboutsection01-right p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutsection02-inner{ padding:25px 0px; }
+.aboutsection02-inner h2{ font-size:30px; line-height:32px;}
+.aboutsection02-inner h6{ font-size:15px; line-height:23px; margin-top:17px; }
+.aboutsection02box{}
+.aboutsection02box ul li{ font-size:13px; margin:6px 0px; line-height:32px; }
+.aboutinersection03-inner{ padding:26px 0px; }
+.aboutinersection03-inner01 .textsec{ padding-top:20px; }
+.aboutinersection03-inner01 .textsec h3{ font-size:26px; line-height:34px; margin-bottom:15px; }
+.aboutinersection03-inner01 .textsec p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutinersection03-inner01{ margin-bottom:40px; }
+.aboutinersection03-inner03 p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutinersection04inner{ padding:30px 0px; }
+.aboutinersection04inner h2{ font-size:25px; line-height:32px; }
+.aboutinersection04inner01{ padding:20px 0px; }
+.aboutinersection04inner01box{ background:none; }
+.aboutinersection04inner01box01{ width:47%; float:left; margin:1%; }
+.aboutinersection04inner01box01 .imgsec01{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec02{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec03{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec04{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec05{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .textsec01{ position:static; }
+.aboutinersection04inner01box01 .textsec02{ position:static; }
+.aboutinersection04inner01box01 .textsec03{ position:static; }
+.aboutinersection04inner01box01 .textsec04{ position:static; }
+.aboutinersection04inner01box01 .textsec05{ position:static; }
+
+/*============get-in-touch start================*/
+.getintouch-section{ padding-top:30px; padding-bottom:30px; }
+.getintouch-section01 h6{ font-size:14px; line-height:23px; padding:0px 6%; }
+.getintouch-section01{ margin-bottom:37px; }
+.getintouch-section02-right{ padding-top:0px; }
+.getintouch-section02-right h3{ font-size:20px; line-height:24px; }
+.getintouch-section02-right ul li{ width:100%; min-height:40px;}
+
+/*============travel-lens start=============*/
+.travellens-innersection{ padding:30px 0px; }
+.travellens-innersection-top h2{ font-size:25px; line-height:35px; }
+.travellens-innersection-top p{ font-size:14px; line-height:23px; }
+.travellens-innersection-top h5{ font-size:17px; line-height:24px; }
+.travellens-innersection-top ul li{ font-size:14px; }
+.travellens-innersection-top{ padding-bottom:20px; margin-bottom:20px; }
+.travellens-innersection-middle h2{ font-size:30px; line-height:35px; }
+.travellens-innersection-middle01 .imgsec{ width:300px; }
+.travellens-innersection-middle01 .textsec01{ width:200px; left:0px; top:0px;}
+.travellens-innersection-middle01 .textsec02{width:200px; left:0px; top:100px;}
+.travellens-innersection-middle01 .textsec03{ width:200px; }
+.travellens-innersection-middle01 p{ font-size:14px; line-height:23px; }
+.travellens-innersection-middle01 .textsec04{width:200px; right:0px; top:0px;}
+.travellens-innersection-middle01 .textsec05{width:200px;right:0px; top:100px;}
+.travellens-innersection-middle01 .textsec06{width:200px; right:0px;}
+.travellens-innerbox h4{ font-size:22px; line-height:30px; }
+.travellens-innerbox p{ font-size:14px; line-height:24px; text-align:justify; }
+
+/*============experience-curators start==================*/
+.getintouch-section02-right h4{ font-size:20px; line-height:24px; }
+.getintouch-section02-right p{ font-size:14px; line-height:23px; text-align:justify; }
+
+/*============experience-curators end==================*/
+
+.comingsoon-section{ padding:140px 0px; }
+.comingsoon-section h2{ font-size:40px; line-height:46px; }
+
+
+}
+
+
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+img{max-width:100%; height:auto;}
+.topsection01{ padding:15px 0px; }
+.topsection01 .logosec{ text-align:center; }
+.topsection02-top::before{ display:none; }
+.topsection02-top::after{ display:none; }
+.topsection02-top ul{ text-align:left; }
+.topsection02-top ul li{ padding:5px; font-size:13px; text-align:left; background:none; }
+.topsection{ padding-bottom:12px; }
+.banner-section .full-img-text h1{ font-size:17px; line-height:21px; margin-bottom:8px; }
+.banner-section .full-img-text a.learnmre-btn{ font-size:14px; line-height:30px; }
+.hometogether-section{ padding-top:20px; padding-bottom:20px; }
+.hometogether-section h2{ font-size:24px; line-height:30px; margin-bottom:20px; }
+.hometogether-section p{ font-size:14px; line-height:24px; }
+.homesection01-bg{padding-top:20px; padding-bottom:20px;}
+.homesection01-bg h2{font-size:24px; line-height:30px; margin-bottom:8px; }
+.homesection01box{ margin:0px auto 20px auto; }
+.homesection01box .textsec p{font-size:14px; line-height:22px; }
+.aboutsection02{ padding:20px 0px; }
+.aboutsection02 h2{font-size:24px; line-height:30px; margin-bottom:20px; padding:0px 12px;}
+.aboutsection02 p{font-size:14px; line-height:22px; padding:0px 15px; text-align:justify;}
+.homesection01box .textsec a.learnmore-btn{ font-size:14px; line-height:35px; }
+.aboutsection03 h2{font-size:24px; line-height:30px; margin-bottom:20px; padding:0px 12px;}
+.aboutsection03 h6{ font-size:16px; }
+.aboutsection03 p{ font-size:14px; line-height:23px; }
+.footer02-box p{ font-size:13px; }
+.footer02-box{ margin:0px auto 30px 0px; padding:3px 0px 0px 80px; }
+.footer03-left{ text-align:center; margin-bottom:12px; }
+.footer03-right{ text-align:center; }
+.footer02-box .imgsec{ width:60px; }
+.footer01 ul li{ font-size:12px; }
+.footer01 ul li a{ padding:0px 11px; }
+
+/*===========about start===============*/
+.banner-section img.fullimg{ min-height:100px; }
+.banner-section .full-img-text p{ font-size:12px; line-height:15px; margin-bottom:7px; }
+.aboutsection01{ padding:25px 0px; }
+.aboutsection01 h2{ font-size:26px; line-height:35px; margin-bottom:16px; }
+.aboutsection01 h6{ font-size:14px; line-height:22px; padding:0px 12px; }
+.aboutsection01-right h3{ font-size:23px; line-height:30px; }
+.aboutsection01-right ul li{ font-size:14px; line-height:23px; }
+.aboutsection01-right p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutsection02-inner{ padding:25px 0px; }
+.aboutsection02-inner h2{ font-size:30px; line-height:32px;}
+.aboutsection02-inner h6{ font-size:15px; line-height:23px; margin-top:17px; }
+.aboutsection02box{border-bottom: 1px solid #e98461; border-right:none;}
+.aboutsection02box ul li{ font-size:13px; margin:6px 0px; }
+.aboutinersection03-inner{ padding:26px 0px; }
+.aboutinersection03-inner01 .textsec{ padding-top:20px; }
+.aboutinersection03-inner01 .textsec h3{ font-size:26px; line-height:34px; margin-bottom:15px; }
+.aboutinersection03-inner01 .textsec p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutinersection03-inner01{ margin-bottom:40px; }
+.aboutinersection03-inner03 p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutinersection04inner{ padding:30px 0px; }
+.aboutinersection04inner h2{ font-size:25px; line-height:32px; }
+.aboutinersection04inner01{ padding:20px 0px; }
+.aboutinersection04inner01box{ background:none; }
+.aboutinersection04inner01box01{ width:98%; float:none; margin:0px auto 20px auto; }
+.aboutinersection04inner01box01 .imgsec01{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec02{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec03{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec04{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec05{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .textsec01{ position:static; }
+.aboutinersection04inner01box01 .textsec02{ position:static; }
+.aboutinersection04inner01box01 .textsec03{ position:static; }
+.aboutinersection04inner01box01 .textsec04{ position:static; }
+.aboutinersection04inner01box01 .textsec05{ position:static; }
+
+/*============get-in-touch start================*/
+.getintouch-section{ padding-top:30px; padding-bottom:30px; }
+.getintouch-section01 h6{ font-size:14px; line-height:23px; padding:0px 10px; }
+.getintouch-section01{ margin-bottom:23px; }
+.getintouch-section02-right h3{ font-size:20px; line-height:24px; }
+.getintouch-section02-right ul li{ width:100%; float:none; margin:0px auto 20px auto; min-height:30px; }
+
+/*============get-in-touch start================*/
+
+/*============travel-lens start=============*/
+.travellens-innersection{ padding:30px 0px; }
+.travellens-innersection-top h2{ font-size:25px; line-height:32px; }
+.travellens-innersection-top p{ font-size:14px; line-height:23px; padding:0px 2%; }
+.travellens-innersection-top h5{ font-size:17px; line-height:25px; }
+.travellens-innersection-top ul li{ width:100%; text-align:left; margin:0px 0px 10px 0px; font-size:14px; line-height:23px;}
+.travellens-innersection-top{ padding-bottom:25px; margin-bottom:25px; }
+
+.travellens-innersection-middle h2{ font-size:25px; line-height:35px; }
+.travellens-innersection-middle h4{ font-size:19px; line-height:24px; }
+
+.travellens-innersection-middle01 .textsec01{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec02{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec03{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec04{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec05{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec06{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 p{ font-size:15px; line-height:23px; }
+.travellens-innersection-middle{ padding-bottom:20px; margin-bottom:30px; }
+.travellens-innerbox{ width:96%; margin:0px auto 20px auto;}
+.travellens-innerbox-left{ width:100%; float:none; padding:15px 0px; margin:0px auto 20px auto }
+.travellens-innerbox h4{ font-size:20px; line-height:23px; }
+.travellens-innerbox p{ font-size:13px; line-height:22px; text-align:justify; }
+.travellens-innerbox-right{ width:100%; float:none; padding:15px 0px; margin:0px auto 20px auto }
+.travellens-innersection-middle01 .imgsec{ margin:0px auto 25px auto; }
+
+/*============experience-curators start==================*/
+.getintouch-section02-right h4{ font-size:20px; line-height:24px; }
+.getintouch-section02-right p{ font-size:14px; line-height:23px; text-align:justify; }
+
+/*============experience-curators end==================*/
+
+.comingsoon-section{ padding:100px 0px; }
+.comingsoon-section h2{ font-size:40px; line-height:46px; }
+
+
+
+
+
+}
+
+
+@media only screen and (min-width:320px) and (max-width:479px){
+img{max-width:100%; height:auto;}
+.topsection01{ padding:15px 0px; }
+.topsection01 .logosec{ text-align:center; }
+.topsection02-top::before{ display:none; }
+.topsection02-top::after{ display:none; }
+.topsection02-top ul{ text-align:left; }
+.topsection02-top ul li{ padding:5px; font-size:13px; text-align:left; background:none; }
+.topsection{ padding-bottom:12px; }
+.banner-section .full-img-text h1{ font-size:17px; line-height:21px; margin-bottom:8px; }
+.banner-section .full-img-text a.learnmre-btn{ font-size:14px; line-height:30px; }
+.hometogether-section{ padding-top:20px; padding-bottom:20px; }
+.hometogether-section h2{ font-size:24px; line-height:30px; margin-bottom:20px; }
+.hometogether-section p{ font-size:14px; line-height:24px; }
+.homesection01-bg{padding-top:20px; padding-bottom:20px;}
+.homesection01-bg h2{font-size:24px; line-height:30px; margin-bottom:8px; }
+.homesection01box{ margin:0px auto 20px auto; }
+.homesection01box .textsec p{font-size:14px; line-height:22px; }
+.aboutsection02{ padding:20px 0px; }
+.aboutsection02 h2{font-size:24px; line-height:30px; margin-bottom:20px; padding:0px 12px;}
+.aboutsection02 p{font-size:14px; line-height:22px; padding:0px 15px; text-align:justify;}
+.homesection01box .textsec a.learnmore-btn{ font-size:14px; line-height:35px; }
+.aboutsection03 h2{font-size:24px; line-height:30px; margin-bottom:20px; padding:0px 12px;}
+.aboutsection03 h6{ font-size:16px; }
+.aboutsection03 p{ font-size:14px; line-height:23px; }
+.footer02-box p{ font-size:13px; }
+.footer02-box{ margin:0px auto 30px 0px; padding:3px 0px 0px 80px; }
+.footer03-left{ text-align:center; margin-bottom:12px; }
+.footer03-right{ text-align:center; }
+.footer02-box .imgsec{ width:60px; }
+.footer01 ul li{ font-size:12px; }
+.footer01 ul li a{ padding:0px 11px; }
+
+/*===========about start===============*/
+.banner-section img.fullimg{ min-height:100px; }
+.banner-section .full-img-text p{ font-size:12px; line-height:15px; margin-bottom:7px; }
+.aboutsection01{ padding:25px 0px; }
+.aboutsection01 h2{ font-size:26px; line-height:35px; margin-bottom:16px; }
+.aboutsection01 h6{ font-size:14px; line-height:22px; padding:0px 12px; }
+.aboutsection01-right h3{ font-size:23px; line-height:30px; }
+.aboutsection01-right ul li{ font-size:14px; line-height:23px; }
+.aboutsection01-right p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutsection02-inner{ padding:25px 0px; }
+.aboutsection02-inner h2{ font-size:30px; line-height:32px;}
+.aboutsection02-inner h6{ font-size:15px; line-height:23px; margin-top:17px; }
+.aboutsection02box{border-bottom: 1px solid #e98461; border-right:none;}
+.aboutsection02box ul li{ font-size:13px; margin:6px 0px; }
+.aboutinersection03-inner{ padding:26px 0px; }
+.aboutinersection03-inner01 .textsec{ padding-top:20px; }
+.aboutinersection03-inner01 .textsec h3{ font-size:26px; line-height:34px; margin-bottom:15px; }
+.aboutinersection03-inner01 .textsec p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutinersection03-inner01{ margin-bottom:40px; }
+.aboutinersection03-inner03 p{ font-size:14px; line-height:23px; text-align:justify; }
+.aboutinersection04inner{ padding:30px 0px; }
+.aboutinersection04inner h2{ font-size:25px; line-height:32px; }
+.aboutinersection04inner01{ padding:20px 0px; }
+.aboutinersection04inner01box{ background:none; }
+.aboutinersection04inner01box01{ width:98%; float:none; margin:0px auto 20px auto; }
+.aboutinersection04inner01box01 .imgsec01{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec02{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec03{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec04{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .imgsec05{ margin:0px 0px 14px 0px; }
+.aboutinersection04inner01box01 .textsec01{ position:static; }
+.aboutinersection04inner01box01 .textsec02{ position:static; }
+.aboutinersection04inner01box01 .textsec03{ position:static; }
+.aboutinersection04inner01box01 .textsec04{ position:static; }
+.aboutinersection04inner01box01 .textsec05{ position:static; }
+
+/*============get-in-touch start================*/
+.getintouch-section{ padding-top:30px; padding-bottom:30px; }
+.getintouch-section01 h6{ font-size:14px; line-height:23px; padding:0px 10px; }
+.getintouch-section01{ margin-bottom:23px; }
+.getintouch-section02-right h3{ font-size:20px; line-height:24px; }
+.getintouch-section02-right ul li{ width:100%; float:none; margin:0px auto 20px auto; min-height:30px; }
+
+/*============get-in-touch start================*/
+
+/*============travel-lens start=============*/
+.travellens-innersection{ padding:30px 0px; }
+.travellens-innersection-top h2{ font-size:25px; line-height:32px; }
+.travellens-innersection-top p{ font-size:14px; line-height:23px; padding:0px 2%; }
+.travellens-innersection-top h5{ font-size:17px; line-height:25px; }
+.travellens-innersection-top ul li{ width:100%; text-align:left; margin:0px 0px 10px 0px; font-size:14px; line-height:23px;}
+.travellens-innersection-top{ padding-bottom:25px; margin-bottom:25px; }
+
+.travellens-innersection-middle h2{ font-size:25px; line-height:35px; }
+.travellens-innersection-middle h4{ font-size:19px; line-height:24px; }
+
+.travellens-innersection-middle01 .textsec01{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec02{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec03{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec04{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec05{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 .textsec06{ width:100%; position:static; text-align:center; margin-bottom:10px; }
+.travellens-innersection-middle01 p{ font-size:15px; line-height:23px; }
+.travellens-innersection-middle{ padding-bottom:20px; margin-bottom:30px; }
+.travellens-innerbox{ width:96%; margin:0px auto 20px auto;}
+.travellens-innerbox-left{ width:100%; float:none; padding:15px 0px; margin:0px auto 20px auto }
+.travellens-innerbox h4{ font-size:20px; line-height:23px; }
+.travellens-innerbox p{ font-size:13px; line-height:22px; text-align:justify; }
+.travellens-innerbox-right{ width:100%; float:none; padding:15px 0px; margin:0px auto 20px auto }
+
+/*============experience-curators start==================*/
+.getintouch-section02-right h4{ font-size:20px; line-height:24px; }
+.getintouch-section02-right p{ font-size:14px; line-height:23px; text-align:justify; }
+
+/*============experience-curators end==================*/
+
+
+.comingsoon-section{ padding:100px 0px; }
+.comingsoon-section h2{ font-size:30px; line-height:36px; }
+
+
+}
+
+
+
+
